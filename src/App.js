@@ -1,3 +1,4 @@
+// main file
 import { GlobalStyle } from 'GlobalStyle'
 import { ThemeProvider } from 'styled-components'
 import { darkTheme, lightTheme } from 'styles/theme'
