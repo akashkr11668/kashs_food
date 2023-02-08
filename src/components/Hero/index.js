@@ -1,3 +1,4 @@
+// js hero 
 import { Container, Section, StyledButton } from 'components/common/CommonStyle'
 import { HeroContainer, HeroDescription, HeroTitle } from './HeroStyle'
 import HomeLogo from 'assets/images/Home.jpg'

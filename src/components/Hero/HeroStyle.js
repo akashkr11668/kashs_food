@@ -1,4 +1,4 @@
-// hero js
+// hero css
 import { json } from "react-router-dom";
 import styled from "styled-components";
 import { device } from "styles/theme";
