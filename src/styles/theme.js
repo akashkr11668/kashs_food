@@ -9,7 +9,7 @@ export const lightTheme = {
     TextColor: "#5d5b56",
 };
 
-// color combinations for dark theme
+// color grading combinations for dark theme
 export const darkTheme = {
     BodyColor: "#24221e",
     ContainerColor: "#2c2a26",
