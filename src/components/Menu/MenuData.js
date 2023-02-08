@@ -1,3 +1,4 @@
+// menu js
 import Dish1 from "assets/images/dish-1.png";
 import Dish2 from "assets/images/dish-2.png";
 import Dish3 from "assets/images/dish-3.png";
