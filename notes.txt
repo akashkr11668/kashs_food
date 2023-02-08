@@ -1,0 +1,66 @@
+// Header
+Header title : We Serve The Taste You Love
+Header desc : This is a type of restaurant which typically serves food and drinks,in addition to light refreshments such as baked goods or snacks.The term comes from the rench word meaning food
+
+// Menu
+title : Pasta
+desc : Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
+
+title : French Fries
+
+title : Chicken Shawarma
+
+title : Fish Curry
+
+//Service
+title : We Are More Than Multiple Service
+desc : Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s
+service titles : 
+Online Order
+Pre-Reservation
+24/7 Service
+Oragnised Foodie Place	
+Clean kitchen
+Super Chefs
+
+//Review
+title : What Our Customer Says?
+
+// Chef
+title : Meet Our Chefs
+Names :
+Marcus
+John
+Andrew
+Angelo
+
+// Footer
+title : Services
+links : 
+Online Order
+Pre-Reservation
+24/7 Services
+Foodie Place
+Super Chefs
+
+title : Quick Links
+links:
+Menu
+Reviews
+Blogs
+Reserve Table
+Order Foods
+
+title : About
+links:
+Our Story
+Benefits
+Career
+Our Chefs
+
+title : Help
+links:
+Contact
+Support
+FAQ
+Foodie Place
