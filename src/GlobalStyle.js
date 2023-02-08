@@ -1,3 +1,4 @@
+// main css1
 import { createGlobalStyle } from "styled-components";
 import { device } from "styles/theme";
 
