@@ -1,3 +1,4 @@
+// main chef file
 import { Container, Section } from 'components/common/CommonStyle'
 import { ChefData, ChefName, ChefsContainer, SectionTitle } from './ChefStyle'
 import { ChefsData } from './ChefsData'
