@@ -1,3 +1,4 @@
+// footer js
 import { Container, Section } from 'components/common/CommonStyle'
 import {
   FooterContainer,
