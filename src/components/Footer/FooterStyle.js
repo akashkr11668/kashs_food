@@ -1,3 +1,4 @@
+// footer css
 import styled from "styled-components";
 import { device } from "styles/theme";
 import { Link } from "react-router-dom";
